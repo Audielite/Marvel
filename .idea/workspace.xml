@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3bc7b1-a6fe-4c59-9491-9316efe04d8f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/MarvelGUI.form" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Marvel.iws" />
@@ -736,7 +735,7 @@
       <option name="presentableId" value="Default" />
       <updated>1492646955583</updated>
       <workItem from="1492646958637" duration="1786000" />
-      <workItem from="1492649671404" duration="105562000" />
+      <workItem from="1492649671404" duration="105598000" />
     </task>
     <task id="LOCAL-00001" summary="Figuring it out.">
       <created>1494452502669</created>
@@ -745,11 +744,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494452502669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Figuring it out.">
+      <created>1494453642156</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1494453642156</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107348000" />
+    <option name="totallyTimeSpent" value="107384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="150" y="91" width="1106" height="777" extended-state="6" />
