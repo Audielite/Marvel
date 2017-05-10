@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Marvel.iml" filepath="$PROJECT_DIR$/Marvel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flickr/flickr.iml" filepath="$PROJECT_DIR$/flickr/flickr.iml" />
     </modules>
   </component>
 </project>
